@@ -1,3 +1,5 @@
+// server
+
 const bodyParser = require('body-parser')
 const jsonServer = require('json-server')
 const server = jsonServer.create()
