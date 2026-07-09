@@ -1,10 +1,7 @@
+---
+name: Pull Request
+about: Crie um pull request para contribuir com o projeto
+---
 **Descrição:**
-
-
-**Issue relacionada:**
-Closes #
-
-**Como testar:**
-
-
-**Capturas de tela (se aplicável):**
+**Corrige/Resolve:** # (número da issue)
+**Passos de teste:**
